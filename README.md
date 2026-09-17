@@ -96,7 +96,12 @@ Add a note containing `	`, exit, restart
 Delete data/tasks.txt and restart	Starts empty without an error
 Screenshots
 
-<img width="900" height="505" alt="a67f2ab9-5f38-42bd-9ef7-a1aa452f06e4" src="https://github.com/user-attachments/assets/d80c4504-5dc7-4405-8885-ac1c8c2d49a7" />
+<img width="180" height="101" alt="a67f2ab9-5f38-42bd-9ef7-a1aa452f06e4" src="https://github.com/user-attachments/assets/d80c4504-5dc7-4405-8885-ac1c8c2d49a7" />
+<img width="180" height="59" alt="d7301cfa-0f69-4c57-9bb9-d36b7c84a82d" src="https://github.com/user-attachments/assets/3b02f179-71ab-41be-839e-297d3eb03c0d" />
+<img width="180" height="32" alt="a2fdeaa0-5f70-47bf-a694-29ec6f105334" src="https://github.com/user-attachments/assets/0d71bf73-7d4b-4e01-b7f2-64d73c1a20e5" />
+<img width="180" height="80" alt="9ffe8fd5-7859-4df1-b8ad-9b1278966f90" src="https://github.com/user-attachments/assets/23f7e4ae-a107-4472-ab46-c24e384c4d5e" />
+<img width="180" height="115" alt="604a88da-a196-4e21-9c88-22cd2dfd9dae" src="https://github.com/user-attachments/assets/db7a2195-9f6b-474e-8e75-d635c4eb1762" />
+<img width="180" height="60" alt="bdf29da2-b894-44e4-a176-3932694af994" src="https://github.com/user-attachments/assets/f60240b1-7d0d-47a4-b4bf-a516cbb4f378" />
 
 
 Future enhancements
