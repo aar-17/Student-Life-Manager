@@ -18,7 +18,9 @@ Student Life Manager is an offline, console-based Java program that keeps academ
 It runs wherever a JDK is installed, needs no internet connection, no database server and no account — the data just stays on the student's own machine.
 
 Scope of the project
+
 What's in scope
+
 Registering the user's name and email at the start of a session
 Full create, read, update and delete on tasks, plus keyword search
 Create, read and delete on expenses
@@ -39,7 +41,9 @@ Mainly: college students who want one offline place to track coursework deadline
 Also useful for: hostel residents splitting expenses who just need a simple spending record, and anyone learning Java who wants a readable, layered example of CRUD, collections, file I/O and validation working together in one project.
 
 High-level features
+
 #	Feature	Description
+
 1	Student registration	Captures a name and a validated email at startup
 2	Task management	Add, view, update status, delete and search tasks with due dates
 3	Expense management	Add, view and delete expenses with category, amount, date and a note
@@ -47,6 +51,7 @@ High-level features
 5	Persistent storage	Saves to text files on exit and loads them on startup, with escaping and error recovery
 6	Input validation	Real calendar dates, positive amounts, required fields, a valid email and status
 7	Self-contained tests	A TestRunner class that checks the core rules without needing any test library
+
 What success looks like
 
 A student opens the program, sees what's still pending and what the month has cost so far, adds whatever's new, and closes it knowing the data will still be there next time — all from a single terminal window, with nothing to set up beyond a JDK.
