@@ -57,7 +57,6 @@ You need a JDK (version 8 or newer). Check with javac -version.
 
 1. Clone the repository
 
-bash
 git clone https://github.com/<your-username>/student-life-manager.git
 cd student-life-manager
 
@@ -65,7 +64,6 @@ cd student-life-manager
 
 Linux or macOS:
 
-bash
 javac -encoding UTF-8 -d out $(find src -name "*.java")
 
 Windows (PowerShell):
@@ -75,7 +73,6 @@ javac -encoding UTF-8 -d out (Get-ChildItem -Recurse -Filter *.java src | % Full
 
 3. Run
 
-bash
 java -cp out app.Main
 
 On Windows, run chcp 65001 first so the rupee symbol displays correctly.
@@ -84,7 +81,6 @@ Instructions for testing
 
 The project ships with its own test class, so no testing library is needed:
 
-bash
 java -cp out app.TestRunner
 
 It exercises the validation rules, ID generation after a delete, status updates, search, category grouping and the divide-by-zero case in the report, printing a PASS or FAIL line for each and a final count.
@@ -100,7 +96,8 @@ Add a note containing `	`, exit, restart
 Delete data/tasks.txt and restart	Starts empty without an error
 Screenshots
 
-Add screenshots of the menu, a report and the test output here before submitting.
+<img width="900" height="505" alt="a67f2ab9-5f38-42bd-9ef7-a1aa452f06e4" src="https://github.com/user-attachments/assets/d80c4504-5dc7-4405-8885-ac1c8c2d49a7" />
+
 
 Future enhancements
 Priority levels and overdue highlighting for tasks
@@ -108,3 +105,7 @@ A monthly budget limit with a warning when spending crosses it
 CSV export so the data opens in a spreadsheet
 Swap the text files for SQLite without changing anything outside FileManager
 A JavaFX front end over the same service classes
+
+Author
+
+Aarush Sudheer, 25BAI10711, CSE(AIML)
