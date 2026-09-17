@@ -50,32 +50,7 @@ Java 8 or later (developed on Java 17; uses java.time.LocalDate, java.nio.file, 
 Standard library only — no external dependencies to download
 Git / GitHub for version control
 Plain text files for persistence
-Project structure
-student-life-manager/
-├── src/
-│   └── app/
-│       ├── Main.java                  menu and user interaction
-│       ├── TestRunner.java            validation tests
-│       ├── model/
-│       │   ├── Task.java              one assignment
-│       │   ├── Expense.java           one spending entry
-│       │   └── Student.java           the current user
-│       ├── service/
-│       │   ├── TaskManager.java       task list and its operations
-│       │   ├── ExpenseManager.java    expense list and its arithmetic
-│       │   └── ReportService.java     builds the summary report
-│       ├── storage/
-│       │   └── FileManager.java       reads and writes the data files
-│       └── util/
-│           ├── Validator.java         input rules
-│           └── InputHelper.java       prompts that re-ask on bad input
-├── data/                              created on first save
-│   ├── tasks.txt
-│   └── expenses.txt
-├── docs/
-│   └── diagrams.md                    architecture, use case, class, sequence, ER
-├── statement.md
-└── README.md
+
 Steps to install and run
 
 You need a JDK (version 8 or newer). Check with javac -version.
