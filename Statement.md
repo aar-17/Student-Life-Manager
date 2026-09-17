@@ -42,7 +42,7 @@ Also useful for: hostel residents splitting expenses who just need a simple spen
 
 High-level features
 
-#	Feature	Description
+Feature	Description
 
 1	 Student registration	Captures a name and a validated email at startup
 
