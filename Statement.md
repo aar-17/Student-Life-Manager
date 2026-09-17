@@ -44,13 +44,19 @@ High-level features
 
 #	Feature	Description
 
-1	Student registration	Captures a name and a validated email at startup
-2	Task management	Add, view, update status, delete and search tasks with due dates
-3	Expense management	Add, view and delete expenses with category, amount, date and a note
-4	Summary reporting	Completion rate, totals, average, largest expense, category breakdown
-5	Persistent storage	Saves to text files on exit and loads them on startup, with escaping and error recovery
-6	Input validation	Real calendar dates, positive amounts, required fields, a valid email and status
-7	Self-contained tests	A TestRunner class that checks the core rules without needing any test library
+1	 Student registration	Captures a name and a validated email at startup
+
+2	 Task management	Add, view, update status, delete and search tasks with due dates
+
+3 	Expense management	Add, view and delete expenses with category, amount, date and a note
+
+4 	Summary reporting	Completion rate, totals, average, largest expense, category breakdown
+
+5 	Persistent storage	Saves to text files on exit and loads them on startup, with escaping and error recovery
+
+6 	Input validation	Real calendar dates, positive amounts, required fields, a valid email and status
+
+7	 Self-contained tests	A TestRunner class that checks the core rules without needing any test library
 
 What success looks like
 
